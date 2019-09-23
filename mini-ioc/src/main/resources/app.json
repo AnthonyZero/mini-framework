@@ -1,0 +1,26 @@
+[
+  {
+    "name":"robot",
+    "className":"com.anthonyzero.ioc.entity.Robot",
+    "constructorArgs":[
+      {
+        "index": 0,
+        "name": "sex",
+        "value": 24
+      },
+      {
+        "index": 1,
+        "name": "name",
+        "value": "i am robot"
+      }
+    ]
+  },
+  {
+    "name":"hand",
+    "className":"com.anthonyzero.ioc.entity.Hand"
+  },
+  {
+    "name":"mouth",
+    "className":"com.anthonyzero.ioc.entity.Mouth"
+  }
+]
